@@ -9,7 +9,7 @@ Readability LLM Analyzer for Ollama API on Localized Resource Constained Edge (R
 ## ✨ Project Overview
 
 This tool enables researchers and practitioners to **evaluate the readability, complexity, and linguistic structure** of outputs from localized small-scale LLMs (quantized for edge/low-resource devices) using the Ollama inference engine.  
-Metrics are calculated using [TextStat](https://github.com/shivam5992/textstat) and [spaCy TextDescriptives](https://github.com/MartinoMensio/textdescriptives) and are stored in a local SQLite database for further analysis.  
+Metrics are calculated using [TextStat](https://github.com/textstat/textstat) and [TextDescriptives](https://hlasse.github.io/TextDescriptives/index.html) and are stored in a local SQLite database for further analysis.  
 A [Gradio](https://gradio.app/) web interface allows for interactive prompt-response analysis and metrics exploration.
 
 ---
