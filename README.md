@@ -63,7 +63,7 @@ A [Gradio](https://gradio.app/) web interface allows for interactive prompt-resp
 
 1. **Launch the app:**
     ```bash
-    python readllm24.py
+    python ReadLLMAnOLLmAPI.py
     ```
 
 2. **Visit the Gradio UI:**  
