@@ -97,7 +97,7 @@ A [Gradio](https://gradio.app/) web interface allows for interactive prompt-resp
 
 ## 🧑‍💻 Code Organization
 
-- **`readllm24.py`** — Main application logic (Gradio UI, metrics computation, DB logging)
+- **`ReadLLMAnOLLmAPI.py`** — Main application logic (Gradio UI, metrics computation, DB logging)
 - **`requirements.txt`** — List of dependencies
 
 ---
