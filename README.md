@@ -105,9 +105,9 @@ A [Gradio](https://gradio.app/) web interface allows for interactive prompt-resp
 ## 🔗 References
 
 - [Ollama Documentation](https://ollama.com/)
-- [TextStat](https://github.com/shivam5992/textstat)
+- [TextStat](https://github.com/textstat/textstat)
 - [spaCy](https://spacy.io/)
-- [TextDescriptives](https://github.com/MartinoMensio/textdescriptives)
+- [TextDescriptives](https://hlasse.github.io/TextDescriptives/index.html)
 - [Gradio](https://gradio.app/)
 
 ---
