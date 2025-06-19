@@ -44,7 +44,7 @@ A [Gradio](https://gradio.app/) web interface allows for interactive prompt-resp
     ```
     gradio
     requests
-    textstat
+    textstat==0.7.7
     spacy
     textdescriptives==2.8.4
     ```
