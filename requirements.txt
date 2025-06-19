@@ -1,0 +1,9 @@
+gradio
+requests
+textstat==0.7.7
+spacy
+textdescriptives==2.8.4
+
+# Run Once Below
+# python -m spacy download en_core_web_sm
+
