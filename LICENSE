@@ -1,0 +1,62 @@
+
+ReadLLMAnOLLmAPI
+Readability LLM Analyzer for Ollama API on Localized Edge
+Copyright (c) 2025 Partha Pratim Ray
+Email: parthapratimray1986@gmail.com
+Country: India
+
+1. Non-Commercial License (Default)
+
+This software is released under the following terms for non-commercial use:
+
+- You are free to use, copy, modify, and distribute this software for personal, academic, research, or educational purposes.
+- Attribution is required:
+  © 2025 Partha Pratim Ray.
+  Please cite the original repository: https://github.com/YOUR-USERNAME/llm-readability-analyzer
+- Any derivative work must include this license and credit the original author.
+- No warranty is provided; use at your own risk.
+- Commercial use is strictly prohibited under this default license.
+
+2. Commercial License (Mandatory for Commercial Use)
+
+Any use of this software for commercial purposes requires a separate Commercial License Agreement directly negotiated with the author.
+
+Examples of commercial use include, but are not limited to:
+
+- Use in commercial businesses, products, SaaS offerings, paid services, or fee-based solutions.
+- Integration into commercial hardware or software platforms.
+- Use in any for-profit organizational environment (corporate, industry, startup, or government contract work).
+- Use in consultancy, third-party services, or client-based projects generating revenue.
+
+Commercial License Terms:
+
+- Prior written permission is mandatory.
+- Licensing fees and terms will be defined on a case-by-case basis.
+- No commercial use is authorized until a valid license is executed.
+
+Contact for Commercial License:
+
+Partha Pratim Ray
+Email: parthapratimray1986@gmail.com
+Country: India
+
+3. Prohibited Use Without Commercial License
+
+Without explicit commercial licensing, you may not:
+
+- Sell, sublicense, or distribute this software for commercial gain.
+- Integrate it into any commercial platform or service.
+- Monetize or profit from any derivative of this software.
+- Offer services or consulting based on this software for financial gain.
+
+4. Enforcement
+
+Any unauthorized commercial use constitutes copyright infringement and may result in:
+
+- Legal action under applicable Intellectual Property laws.
+- Financial damages, including retroactive license fees and penalties.
+- Public disclosure of violation on relevant platforms including GitHub.
+
+5. Acknowledgement
+
+By using, copying, modifying, or distributing this software, you acknowledge and agree to abide by these terms.
